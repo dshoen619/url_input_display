@@ -1,0 +1,37 @@
+.form-row {
+  padding: 15px; 
+  margin-bottom: 10px; 
+  
+}
+
+.form-input input{
+  width: 60%;
+}
+
+form {
+  display: row;
+  justify-content: center;
+  width:100%
+}
+
+.buttons {
+ text-align:center;
+
+} 
+.buttons .btn {
+  margin-right:10px;
+ 
+ } 
+ 
+.spinner-container {
+  position: fixed; /* Fixed positioning to keep it in place */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background: rgba(255, 255, 255, 0.8); /* Optional: semi-transparent background */
+  z-index: 9999; /* Ensure the spinner is on top of other elements */
+}
