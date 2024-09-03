@@ -74,7 +74,8 @@ Ideally I would want to test 100% of my functionality before deploying.
 <br>
 
 ## Live Demo
-The project is currently hosted at https://url-input-frontend-ff226f3bb8c0.herokuapp.com/
+The project is currently hosted at https://url-input-frontend-ff226f3bb8c0.herokuapp.com/<br>
+<br>
 Please see this link for a video tutorial: https://www.loom.com/share/d98c864005f34cc78561620fef2223bf?sid=3e5e9084-f753-4580-829f-7c9b696e21a0
 
 
