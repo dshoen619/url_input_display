@@ -70,6 +70,12 @@ To run the unit test, simply run the command __npm run rests __tests__/app.test.
 <br>
 <br>
 Ideally I would want to test 100% of my functionality before deploying.
+<br>
+<br>
+
+## Live Demo
+The project is currently hosted at https://url-input-frontend-ff226f3bb8c0.herokuapp.com/
+Please see this link for a video tutorial: https://www.loom.com/share/d98c864005f34cc78561620fef2223bf?sid=3e5e9084-f753-4580-829f-7c9b696e21a0
 
 
 
