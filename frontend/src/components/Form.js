@@ -65,7 +65,7 @@ export const LoadingSpinner = ({ loading }) => {
         {loading && (
           <div className="spinner-container">
             <div className="spinner-border spinner" role="status">
-              <span className="sr-only">Loading...</span>
+              <span className="sr-only"></span>
             </div>
           </div>
         )}
